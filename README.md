@@ -85,8 +85,8 @@ Hello! I'm **Mita Poshiya**, a passionate **information technology engineering**
   ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)  
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaidehisheladiya&show_icons=true&locale=en&layout=compact" alt="vaidehisheladiya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitaposhiya&show_icons=true&locale=en&layout=compact" alt="mitaposhiya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaidehisheladiya&show_icons=true&locale=en" alt="vaidehisheladiya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mitaposhiya&show_icons=true&locale=en" alt="mitaposhiya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaidehisheladiya&" alt="vaidehisheladiya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mitaposhiya&" alt="mitaposhiya" /></p>
