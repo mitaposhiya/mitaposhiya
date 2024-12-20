@@ -48,7 +48,7 @@ Hello! I'm **Mita Poshiya**, a passionate **information technology engineering**
 
 **Additional Details:**
 
-- **Bachelor of Engineering | Computer Science Engineering**
+- **Bachelor of Engineering | nformation technology engineering**
   - Graduation: 2025
   - Institution: |atmiyauniversity, rajkot
   - CGPA:9.09 (Sem-VI)
