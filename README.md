@@ -84,7 +84,7 @@ Hello! I'm **Mita Poshiya**, a passionate **information technology engineering**
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)  
   ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)  
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-  ![replit]
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitaposhiya&show_icons=true&locale=en&layout=compact" alt="mitaposhiya" /></p>
 
