@@ -26,7 +26,7 @@ Hello! I'm **Mita Poshiya**, a passionate **information technology engineering**
 | Position        | Backend Intern                                    |
 |-----------------|-----------------------------------------------------|
 | **Company**     | <span style="background: #FF4500; color: white; padding: 4px 8px; border-radius: 4px;"></span> <span style="background: #1E90FF; color: white; padding: 4px 8px; border-radius: 4px;">  IT SERVICES PVT. LTD</span> |
-| **Duration**    | september 2024 – october 2024                           |
+| **Duration**    | september,october 2024                           |
 | **Location**    | On-Site, Rajkot                                |
 
 **Responsibilities:**
