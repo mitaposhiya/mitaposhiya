@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mita Poshiya</h1>
-<h3 align="center" style="color: #FF69B4;">A Passionate Full Stack Developer and Programmer from India.</h3>
+<h3 align="center" style="color: #FF69B4;">A Passionate Backend Developer and Programmer from India.</h3>
 
 ---
 
